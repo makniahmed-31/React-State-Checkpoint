@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-State-Checkpoint/static/css/main.8ccb0387.chunk.css",
+    "main.js": "/React-State-Checkpoint/static/js/main.7510adb2.chunk.js",
+    "main.js.map": "/React-State-Checkpoint/static/js/main.7510adb2.chunk.js.map",
+    "runtime-main.js": "/React-State-Checkpoint/static/js/runtime-main.0dd0268b.js",
+    "runtime-main.js.map": "/React-State-Checkpoint/static/js/runtime-main.0dd0268b.js.map",
+    "static/css/2.311aaba0.chunk.css": "/React-State-Checkpoint/static/css/2.311aaba0.chunk.css",
+    "static/js/2.2bdd310b.chunk.js": "/React-State-Checkpoint/static/js/2.2bdd310b.chunk.js",
+    "static/js/2.2bdd310b.chunk.js.map": "/React-State-Checkpoint/static/js/2.2bdd310b.chunk.js.map",
+    "index.html": "/React-State-Checkpoint/index.html",
+    "precache-manifest.7d36bf6969dd35326615469e50e9c9ae.js": "/React-State-Checkpoint/precache-manifest.7d36bf6969dd35326615469e50e9c9ae.js",
+    "service-worker.js": "/React-State-Checkpoint/service-worker.js",
+    "static/css/2.311aaba0.chunk.css.map": "/React-State-Checkpoint/static/css/2.311aaba0.chunk.css.map",
+    "static/css/main.8ccb0387.chunk.css.map": "/React-State-Checkpoint/static/css/main.8ccb0387.chunk.css.map",
+    "static/js/2.2bdd310b.chunk.js.LICENSE.txt": "/React-State-Checkpoint/static/js/2.2bdd310b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dd0268b.js",
+    "static/css/2.311aaba0.chunk.css",
+    "static/js/2.2bdd310b.chunk.js",
+    "static/css/main.8ccb0387.chunk.css",
+    "static/js/main.7510adb2.chunk.js"
+  ]
+}
